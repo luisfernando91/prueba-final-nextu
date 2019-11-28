@@ -1,0 +1,74 @@
+<<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <h1><title>Educacion</title></h1>
+  </head>
+  <body>
+      <h1>Hoja de Vida</h1>
+    <svg width="640" height="180" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+     <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+     <g>
+      <title>Layer 1</title>
+      <text stroke="#000000" font-weight="bold" transform="matrix(1.3983915421176183,0,0,1.1805250340331594,-87.32459464397718,-288.0134958652871) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="279.72163" x="128.31418" stroke-width="0" fill="#000000">Educación</text>
+      <text stroke="#000000" transform="matrix(3.094545364379883,0,0,3.115384578704834,-81.68726921081543,-120.57692098617554) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_3" y="76.71605" x="52.82961" opacity="0.5" stroke-width="0" fill="#000000">L A</text>
+     </g>
+    </svg>
+    <h2>Datos Personales</h2>
+    <h3>Nombres y Apellidos:</h3>
+    <h4> luis fernando Arteaga Cifuentes</4>
+    <h3>fecha y lugar de Nacimiento:</h3>
+    <h4>15 de Enero de 1991, en Pto Ordaz Ciudad Guayana</4>
+    <h2>Enlaces de Menu basico</h2>
+    <ul>
+      <li><a href="index.html">volver</a></li>
+    </ul>
+    <h2>Educación</h2>
+    <table border="1">
+      <tr>
+        <th>Año</th>
+        <th>Institución</th>
+        <th>Lugar</th>
+        <th>¿Culmino?</th>
+        <th>Titulo</th>
+      </tr>
+      <tr>
+        <td>2017</td>
+        <td>"Santiago Mariño"</td>
+        <td>Ciudad Guayana</td>
+        <td>si</td>
+        <td>Ingeniero Industrial</td>
+      </tr>
+    </table>
+    <h2>Agregar Estudios</h2>
+    <form>
+      <p> Año de Graduación
+        <select>
+          <option>2019</option>
+          <option>2018</option>
+          <option>2017</option>
+          <option>2016</option>
+          <option>2015</option>
+          <option>2014</option>
+          <option>2013</option>
+          <option>2012</option>
+          <option>2011</option>
+          <option>2010</option>
+          <option>anterior al 2010</option>
+        </select>
+      </p>
+      <p>
+        Institución
+      <input type="text" placeholder="nombre de institucion" required>
+    </p>
+    <p> Lugar de la Institución
+    <textarea name="lugar" rows="8" cols="10">
+    </textarea>
+    </p>
+      <input type="submit" value="enviar">
+    </form>
+    <h2>Pie de Pagina</h2>
+    <p><strong>Email</strong>: luifer.zrii@gmail.com     <strong>Telefono de contacto</strong>: +56948096418  </p>
+    <p><strong>instagram</strong>: @luifer_arteaga</p>
+  </body>
+</html>
