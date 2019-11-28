@@ -1,0 +1,40 @@
+<<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <h1><title>audio y video</title></h1>
+  </head>
+  <body>
+      <h1>Hoja de Vida</h1>
+    <svg width="200" height="150" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000000" id="svg_11" d="m55.888345,104.966942c-10.427185,42.909091 -26.067962,-26.330579 -26.067962,-26.330579c0,0 129.470878,21.454545 129.470878,21.454545c0,0 -89.500003,42.909091 -89.500003,42.909091c0,0 86.024275,-82.892562 86.024275,-82.892562c0,0 45.184468,-31.206612 45.184468,-31.206612c0,0 -139.029131,-3.900826 -139.029131,-3.900826c0,0 118.174761,64.85124 118.174761,64.85124c0,0 -158.145636,-35.595041 -158.145636,-35.595041" opacity="0.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000"/>
+  <text stroke="#000000" transform="matrix(3.094545364379883,0,0,3.115384578704834,-81.68726921081543,-120.57692098617554) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_3" y="71.901234" x="57.353702" opacity="0.5" stroke-width="0" fill="#000000">L A</text>
+  <polygon opacity="0.5" strokeWidth="0" strokecolor="#000000" fill="#000000" edge="0" orient="x" sides="5" shape="regularPoly" id="svg_6" cy="268" cx="-40"/>
+  <polygon opacity="0.5" strokeWidth="5" strokecolor="none" fill="#000000" edge="0" orient="x" sides="5" shape="regularPoly" id="svg_7" cy="104" cx="59"/>
+ </g>
+</svg>
+  <h2>Datos Personales</h2>
+  <h3>Nombres y Apellidos:</h3>
+  <h4> luis fernando Arteaga Cifuentes</h4>
+  <h3>fecha y lugar de Nacimiento:</h3>
+  <h4>15 de Enero de 1991, en Pto Ordaz Ciudad Guayana</h4>
+  <h2>Enlaces de Menu basico</h2>
+  <ul>
+    <li><a href="index.html">volver</a></li>
+  </ul>
+  <h3>audio</h3>
+  <h2>Experiencia</h2>
+  <h3>Video</h3>
+  <video src="video/videoluis.mp4" controls width="200px" height="200px">
+    </video>
+    <h3>audio</h3>
+    <audio src="audio/audioluis.ogg" controls>
+    </audio>
+  <h3>Pie de Pagina</h3>
+  <p><strong>Email</strong>: luifer.zrii@gmail.com     <strong>Telefono de contacto</strong>: +56948096418  </p>
+  <p><strong>instagram</strong>: @luifer_arteaga</p>
+  </body>
+</html>
